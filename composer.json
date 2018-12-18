@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/payments": "~2018.11.0",
+    "spryker-feature/payments": "~2018.12.0",
     "spryker/gift-card": "^1.0.3",
     "spryker/gift-card-balance": "^1.0.1"
   }
