@@ -7,13 +7,13 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/payments": "^201903.0",
+    "spryker-feature/payments": "^201906.0",
     "spryker/gift-card": "^1.1.0",
     "spryker/gift-card-balance": "^1.0.1"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201903.x-dev"
+      "dev-master": "201906.x-dev"
     }
   }
 }
