@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/payments": "^201907.0",
     "spryker-shop/cart-code-widget": "^1.0.0",
     "spryker-shop/gift-card-widget": "^1.0.0",
     "spryker/cart-code": "^1.0.0",
