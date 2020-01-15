@@ -12,7 +12,7 @@
     "spryker/cart-code": "^1.0.0",
     "spryker/gift-card": "^1.2.0",
     "spryker/gift-card-balance": "^1.0.1",
-    "spryker/nopayment": "^4.0.6"
+    "spryker/nopayment": "^4.0.7"
   },
   "extra": {
     "branch-alias": {
