@@ -15,3 +15,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [CartCodeExtension ^1.0.0](https://github.com/spryker/cart-code-extension) (Extension)
+- [GiftCardsRestApi ^1.0.0](https://github.com/spryker/gift-cards-rest-api) (Glue)
