@@ -1,25 +1,25 @@
 {
-  "name": "spryker-feature/gift-cards",
-  "description": "Gift cards [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/cart-code-widget": "^1.4.0",
-    "spryker-shop/gift-card-widget": "^1.2.0",
-    "spryker/cart-code": "^1.2.0",
-    "spryker/gift-card": "^1.5.0",
-    "spryker/gift-card-balance": "^1.2.0",
-    "spryker/nopayment": "^4.0.7"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/gift-cards",
+    "description": "Gift cards [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/cart-code-widget": "^1.4.0",
+        "spryker-shop/gift-card-widget": "^1.2.0",
+        "spryker/cart-code": "^1.2.0",
+        "spryker/gift-card": "^1.6.0",
+        "spryker/gift-card-balance": "^1.2.0",
+        "spryker/nopayment": "^4.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/payments": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/payments": "Recommended feature dependency."
-  }
 }
