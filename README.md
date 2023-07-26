@@ -14,5 +14,5 @@ composer require spryker-feature/gift-cards
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [CartCodeExtension ^1.1.0](https://github.com/spryker/cart-code-extension) (Extension)
-- [GiftCardsRestApi ^1.0.0](https://github.com/spryker/gift-cards-rest-api) (Glue)
+- [CartCodeExtension ^1.2.0](https://github.com/spryker/cart-code-extension) (Extension)
+- [GiftCardsRestApi ^1.0.0](https://github.com/spryker/gift-cards-rest-api) (Legacy Glue)
