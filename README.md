@@ -2,6 +2,8 @@
 
 Supports buying a gift card
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/gift-cards/202307.0/gift-cards.html)
+
 ## Installation
 
 ```
