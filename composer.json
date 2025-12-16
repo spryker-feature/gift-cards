@@ -10,13 +10,13 @@
         "spryker-shop/cart-code-widget": "^1.6.0",
         "spryker-shop/gift-card-widget": "^1.2.0",
         "spryker/cart-code": "^1.4.0",
-        "spryker/gift-card": "^1.11.0",
-        "spryker/gift-card-balance": "^1.4.0",
+        "spryker/gift-card": "^1.12.0",
+        "spryker/gift-card-balance": "^1.6.0",
         "spryker/nopayment": "^4.3.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
