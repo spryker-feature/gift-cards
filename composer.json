@@ -8,7 +8,7 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/cart-code-widget": "^1.7.0",
-        "spryker-shop/gift-card-widget": "^1.2.0",
+        "spryker-shop/gift-card-widget": "^1.3.0",
         "spryker/cart-code": "^1.4.0",
         "spryker/gift-card": "^1.13.0",
         "spryker/gift-card-balance": "^1.7.0",
@@ -16,7 +16,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     },
     "suggest": {
